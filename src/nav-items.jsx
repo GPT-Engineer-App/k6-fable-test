@@ -1,4 +1,4 @@
-import { Home, Dog } from "lucide-react";
+import { Dog, Heart, Search } from "lucide-react";
 import Index from "./pages/Index.jsx";
 
 /**
